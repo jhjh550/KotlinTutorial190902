@@ -4,7 +4,7 @@ fun main() {
     println(result)
 
     val res2 = sum2(100,200)
-    println(res2)
+    println("aaa:  "+res2)
 }
 
 fun sum(a:Int, b:Int=1000):Int{
