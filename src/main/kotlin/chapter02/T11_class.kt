@@ -1,3 +1,5 @@
+package chapter02
+
 fun main() {
     val obj = MyClass()
     obj.myFun()

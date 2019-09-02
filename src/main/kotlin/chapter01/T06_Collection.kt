@@ -1,3 +1,5 @@
+package chapter01
+
 fun main() {
     // Array
     var array = arrayOf(1,2,3, "hello")

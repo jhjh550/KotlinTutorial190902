@@ -1,9 +1,11 @@
+package chapter01
+
 fun main() {
     val myVal = 100
-    val result = sum(myVal,20)
+    val result = sum(myVal, 20)
     println(result)
 
-    val res2 = sum2(100,200)
+    val res2 = sum2(100, 200)
     println("aaa:  "+res2)
 }
 

@@ -1,3 +1,5 @@
+package chapter01
+
 fun main() {
     val str1:Char = 'c'
     val str2:String = "c"
@@ -11,7 +13,7 @@ World"""
 
     println("hello $myVal")
     println("hello ${myVal+20}")
-    println("hello ${sum(10,11)}")
+    println("hello ${sum(10, 11)}")
     println(getLength(100))
     println(getLength("hello world"))
 }
