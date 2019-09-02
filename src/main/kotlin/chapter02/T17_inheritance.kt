@@ -1,5 +1,10 @@
 package chapter02
 
+fun main() {
+    val rect = MyRect()
+    val shape = rect as MyShape
+}
+
 open class MyShape{
     var x: Int = 0
     open var y: Int = 0
