@@ -38,6 +38,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\orc4g\IdeaProjects\KotlinTutorial\src\main\kotlin\chapter03" />
       <recent name="C:\Users\orc4g\IdeaProjects\KotlinTutorial\src\main\kotlin\chapter02" />
       <recent name="C:\Users\orc4g\IdeaProjects\KotlinTutorial\src\main\kotlin\chapter01" />
     </key>
@@ -54,20 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter02.T23_objectKt">
-    <configuration name="chapter02.T15_propertyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="untitled.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter02.T15_propertyKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.chapter03.T24_nullableKt">
     <configuration name="chapter02.T16_lateinitKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="untitled.main" />
       <option name="VM_PARAMETERS" />
@@ -120,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chapter03.T24_nullableKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="untitled.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter03.T24_nullableKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chapter03.T24_nullableKt" />
         <item itemvalue="Kotlin.chapter02.T23_objectKt" />
         <item itemvalue="Kotlin.chapter02.T21_enumKt" />
         <item itemvalue="Kotlin.chapter02.T20_data_classKt" />
         <item itemvalue="Kotlin.chapter02.T16_lateinitKt" />
-        <item itemvalue="Kotlin.chapter02.T15_propertyKt" />
       </list>
     </recent_temporary>
   </component>

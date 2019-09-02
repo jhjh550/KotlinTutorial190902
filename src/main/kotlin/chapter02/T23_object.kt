@@ -1,5 +1,7 @@
 package chapter02
 
+import kotlin.reflect.KClass
+
 val obj1 = object {
     var no:Int = 10
     fun myFun(){
@@ -39,5 +41,4 @@ fun main() {
     obj3.myFun()
     MyClass4.myFun()
 }
-
 
