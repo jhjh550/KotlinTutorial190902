@@ -6,9 +6,14 @@ fun sum(a:Int, b:Int): Int{
 fun tempFun():Int{
     return 10+20
 }
+
 val tempFunLambda = { 10+20 }
 val temp = ::sum
 val sum1 = { a:Int, b:Int -> a+b }
+val sum2 = { a:Int, b:Int ->
+    println("hello world $a")
+    a+b
+}
 
 fun main() {
     val res = sum(10,20)
