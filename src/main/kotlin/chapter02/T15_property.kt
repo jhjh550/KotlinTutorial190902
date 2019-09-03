@@ -8,8 +8,8 @@ fun main() {
 
 class User4{
     var name: String = "hello"
-        get() = field.toUpperCase()
-        set(value) { field = "this is $value"}
+        get() { return field.toUpperCase() }
+        set(value) { field = "this is "+value }
 
     var age:Int = 20
         set(value) {
